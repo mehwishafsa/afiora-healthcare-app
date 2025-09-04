@@ -18,6 +18,9 @@ This is my **first major GitHub project** after two smaller beginner projects, a
 
 ## 📸 Screenshots  
 
+###app logo
+[app logo](afiora.jpg)
+
 ### Homepage  
 ![Homepage](screenshot1homepage.jpg)  
 
