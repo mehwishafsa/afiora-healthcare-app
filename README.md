@@ -89,5 +89,8 @@ I already have two other projects on GitHub, and Afiora Healthcare App is my **f
 Feel free to ⭐ star this project or fork it to add improvements!
 
 
-**Let’s Connect!**  
-I'm sharing this as part of my learning journey—find me on [LinkedIn](www.linkedin.com/in/mehwishafsa)
+---
+
+## 🔗 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehwishafsa)
