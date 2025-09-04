@@ -3,7 +3,7 @@
 Afiora Healthcare is a **prototype healthcare application** designed to make healthcare services more accessible, especially for rural and semi-urban communities.  
 This is my **first major GitHub project** after two smaller beginner projects, and it reflects my journey of learning app development while solving real-world healthcare challenges.  
 
----
+
 
 ## ✨ Current Features  
 
@@ -14,7 +14,7 @@ This is my **first major GitHub project** after two smaller beginner projects, a
 - ❓ **FAQ Section** – Quick answers to common healthcare-related questions  
 - 🚨 **Emergency Help** – One-tap emergency support for patients in need  
 
----
+
 
 ## 📸 Screenshots  
 
@@ -33,7 +33,7 @@ This is my **first major GitHub project** after two smaller beginner projects, a
 ### Emergency Help  
 ![Emergency Help](screenshot4.jpg)  
 
----
+
 
 ## 📥 Download APK  
 
@@ -41,7 +41,7 @@ This is my **first major GitHub project** after two smaller beginner projects, a
 
 [![Download Afiora Healthcare App](https://img.shields.io/badge/Download-Afiora%20Healthcare%20App-brightgreen?style=for-the-badge&logo=android)](https://tinyurl.com/afiora-healthcare)  
 
----
+
 
 ## 🛠️ Tech Stack (Planned)  
 
@@ -49,7 +49,7 @@ This is my **first major GitHub project** after two smaller beginner projects, a
 - **Cloud Backend (Firebase / AWS / Azure)** – For real-time data & storage  
 - **AI/NLP Models** – For intelligent health queries and chatbot integration  
 
----
+
 
 ## 🚀 Future Scope  
 
@@ -61,7 +61,7 @@ This is my **first major GitHub project** after two smaller beginner projects, a
 - 🔲 Wearable device support (fitness trackers, vitals monitoring)  
 - 🔲 **Sign Language to English Translator** – Anime-inspired virtual assistant/toy that interprets sign language gestures and translates them into English text/speech to help doctors communicate with patients who cannot speak  
 
----
+
 
 ## 📌 Roadmap  
 
@@ -73,7 +73,7 @@ This is my **first major GitHub project** after two smaller beginner projects, a
 - 🔲 Build AI chatbot + sign language assistant  
 - 🔲 Launch as an open-source healthcare app  
 
----
+
 
 ## 👩‍💻 About Me  
 
@@ -82,4 +82,9 @@ This project marks my first step into building **impactful, real-world applicati
 
 I already have two other projects on GitHub, and Afiora Healthcare App is my **first end-to-end prototype** that I plan to grow into a scalable digital health ecosystem.  
 
----
+
+
+##  Contribute
+
+Feel free to ⭐ star this project or fork it to add improvements!
+
